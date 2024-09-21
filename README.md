@@ -31,4 +31,4 @@ As a seasoned Full Stack Developer, I pride myself on creating digital experienc
 Salman Aziz - Full Stack Developer - https://salmanaziz.net/
 
 # View the Code Demo:
-Code Demo - Marinda Studio - https://marinda.salmanaziz.net/
+Code Demo - Marinda - https://marinda.salmanaziz.net/
